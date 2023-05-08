@@ -15,7 +15,7 @@
   
 # My Social Networks
 
-[![Discord][1.2]][1] [![Telegram][4.2]][4]
+[![Telegram][4.2]][4]
 
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
