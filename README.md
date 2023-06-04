@@ -15,10 +15,12 @@
   
 # My Social Networks
 
-[![Telegram][4.2]][4]
+[![Discord][1.2]][1] [![Telegram][4.2]][4]
 
+[1.2]: https://skillicons.dev/icons?i=discord&perline=3
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
+[1]: https://discord.com/users/922397127341146153
 [4]: https://telegram.me/ArshaShokri8
 
 * My social networks to connect with me
